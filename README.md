@@ -11,4 +11,4 @@ cd ipinfo
 
 chmod +x install.sh
 
-python ipinfo.py
+python3 ipinfo.py
