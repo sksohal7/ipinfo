@@ -3,7 +3,7 @@ Ip scanning tool
 
 Follow this command in termux
 
-pkg install got
+pkg install git
 
 git clone https://github.com/sksohal7/ipinfo.git
 
